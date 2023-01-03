@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /Anime-characters/
+Disallow: /Anime-characters/*
+Disallow: /index.html
+
+user-agent: Googlebot
+Disallow: /Anime-characters/*
+Allow: /Anime-characters/index.html
